@@ -5,3 +5,6 @@ The motivation for the project is the infotainment system in BMWs which uses ges
 ![Screenshot](R.jpg)
 
 ## Real World Application
+The real world applications for this project can be used for convenience. However, the safety aspect cannot be overlook as in the application of operateing a vechice can be dangerous if the driver takes his/her/their attention off the road for even a few seconds. Thus, operating the infotainment system using the gestures can help reduce the distraction. 
+![Screenshot](RA1.jpg)
+![Screenshot](RA2.jpg)
